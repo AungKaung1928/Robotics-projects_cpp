@@ -110,4 +110,4 @@ The robot autonomously navigates while avoiding obstacles, demonstrating:
 
 ---
 
-**Built for robotics engineering interviews to showcase ROS2 C++ proficiency and autonomous navigation concepts.**
+"A personal project to practice and improve my ROS2 and C++ skills, focusing on autonomous navigation concepts."
